@@ -5,7 +5,7 @@ import sqlite3
 from PIL import Image
 import time
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Database Connection
 col1, col2 = st.columns(2)
